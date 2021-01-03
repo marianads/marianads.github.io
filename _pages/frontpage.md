@@ -2,7 +2,6 @@
 permalink: /
 layout: home
 title: Welcome
-list_title: CV
 list_title: My blog posts
 ---
 
