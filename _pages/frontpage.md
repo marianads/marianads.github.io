@@ -5,7 +5,7 @@ title: Welcome
 list_title: My blog posts
 ---
 
-Helo! I'm a Research Engineer and Ph.D. Candidate at École Centrale de Lyon in Experimental Contact Mechanics with a background in Materials.
+Helo! I am a Research Engineer and Ph.D. Candidate at École Centrale de Lyon in Experimental Contact Mechanics with a background in Materials.
 
 Have a great day!!
 
