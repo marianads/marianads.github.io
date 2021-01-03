@@ -1,5 +1,5 @@
-title: Mariana de Souza
-description: My page
+title: My blog
+description: My very nice blog
 author: "Mariana de Souza"
 
 theme: minima
@@ -7,6 +7,7 @@ theme: minima
 # Minima social links
 twitter_username: desouzaamariana
 linkedin_username: souzaamariana
+rss: rss
 
 # Minima: show excerpts in the frontpage
 show_excerpts: true
