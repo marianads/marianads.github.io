@@ -1,7 +1,7 @@
 ---
 permalink: /thesis
 layout: page
-title: Comprehension of shear-induced areareduction of soft elastic contacts
+title: My thesis
 ---
 
 
