@@ -115,6 +115,7 @@ I like to explore new cities and countries, and I like trekking
 **Music**
 
 Music always cheers me up! 
-And I was a frustrated person for not knowing how to play any musical instrument until the Covid pandemic left me confined at home and I started to learn to play ukulele.
+And I was a frustrated person for not knowing how to play any musical instrument until the Covid pandemic left me confined at home and I challenged myself to learn to play Ukulele
+
 
 *CV last updated: January 04 2021*
