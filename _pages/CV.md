@@ -11,7 +11,10 @@ Mariana de Souza
 31 Rue Abbe Boisard         
 Lyon 69003                         
 France 
+
 souzaamariana@gmail.com
+
++55 0621776465
 
 ----------------------------
 
@@ -20,9 +23,9 @@ Education
 
 2017-2021 (expected)
 :   **PhD, Mechanical Engineering**; 
-École Centrale de Lyob (Écully, France)
+École Centrale de Lyon (Écully, France)
 
-     Thesis title: Comprehension of shear-induced areareduction of 
+     *Thesis title: Comprehension of shear-induced areareduction of 
      soft elastic contacts*
 
 2009-2015
