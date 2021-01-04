@@ -4,6 +4,7 @@ layout: page
 title: My thesis
 ---
 
+Comprehension of shear-induced areareduction of soft elastic contacts
 
 <ul>
   {% for chapter in site.thesis %}
