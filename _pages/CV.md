@@ -1,5 +1,5 @@
 ---
-permalink: /archive
+permalink: /CV
 layout: page
 title: CV
 ---
