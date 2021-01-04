@@ -11,5 +11,5 @@ title: My thesis
 * [Chapter 3]()
 * [Chapter 4]()
 * [Chapter 5]()
-* [Chapter 6](marianads.github.io/_thesis/Chapter6.pdf)
+* [Chapter 6](https://github.com/marianads/marianads.github.io/blob/main/_thesis/Chapter6.pdf)
 * [Chapter 7]()
