@@ -105,6 +105,7 @@ Extra Section, Call it Whatever You Want
 Activities and interests
 ----------------------------------------
 **Travel**
+
 I like to explore new cities and countries, and I like trekking
 
 **Genealogy**
