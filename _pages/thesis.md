@@ -4,7 +4,7 @@ layout: page
 title: My thesis
 ---
 
-**Comprehension of shear-induced areareduction of soft elastic contacts**
+**Comprehension of shear-induced area reduction of soft elastic contacts**
 
 * [Chapter 1]()
 * [Chapter 2]()
