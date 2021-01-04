@@ -4,7 +4,7 @@ layout: page
 title: CV
 ---
 
-Mariana de Soza
+Mariana de Souza
 ============
 
 -------------------     ----------------------------
@@ -22,7 +22,7 @@ Education
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*
 
-2007-2010
+2009-2015
 :   **BSc, Computer Science and Electrical Engineering**; University of
     HomeTown (HomeTown)
 
