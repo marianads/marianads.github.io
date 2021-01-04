@@ -30,7 +30,7 @@ Education
 
 2009-2015
 :   **BSc, Materials Science and Engineering**;
-Federal University of Santa Catarina (Florianópolis, Brazil)
+[Federal University of Santa Catarina](https://en.ufsc.br/) (Florianópolis, Brazil)
 
     *Sandwich period at École Nationale d’Ingénieurs de Saint-Etienne (2012-2013) in Mechanical Engineering*
 
