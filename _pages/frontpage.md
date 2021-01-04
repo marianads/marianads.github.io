@@ -7,7 +7,8 @@ list_title: My blog posts
 
 Hello! I am a Research Engineer and a Ph.D. Candidate at École Centrale de Lyon in Experimental Contact Mechanics with a background in Material Science.
 
-<img src="https://pbs.twimg.com/media/EmrGT27UYAADvrW?format=jpg&name=large" width="400px">
+
+[<img src="https://pbs.twimg.com/media/EmrGT27UYAADvrW?format=jpg&name=large" width="400px">](https://twitter.com/bethpenrose/status/1327091120455598080?s=20)
 
 
 Have a great day!
