@@ -7,26 +7,29 @@ title: CV
 Mariana de Souza
 ============
 
--------------------     ----------------------------
-31 Rue Abbe Boisard          souzaamariana@gmail.com
+----------------------------
+31 Rue Abbe Boisard         
 Lyon 69003                         
-France                           
--------------------     ----------------------------
+France 
+souzaamariana@gmail.com
+
+----------------------------
 
 Education
 ---------
-phd mechanical engineering
+
 2017-2021 (expected)
-:   **PhD, Mechanical Engineering **; École Centrale de Lyob (Écully, France)
+:   **PhD, Mechanical Engineering**; 
+École Centrale de Lyob (Écully, France)
 
      Thesis title: Comprehension of shear-induced areareduction of 
      soft elastic contacts*
 
 2009-2015
-:   **BSc, Materials Science and Engineering**; Federal University of
-    Santa Catarina (Florianópolis, Brazil)
+:   **BSc, Materials Science and Engineering**;
+Federal University of Santa Catarina (Florianópolis, Brazil)
 
-    *Minor: Awesomeology*
+    *Sandwich period at École Nationale d’Ingénieurs de Saint-Etienne (2012-2013) in Mechanical Engineering*
 
 Experience
 ----------
