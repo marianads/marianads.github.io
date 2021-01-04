@@ -104,14 +104,16 @@ Extra Section, Call it Whatever You Want
 
 Activities and interests
 ----------------------------------------
-*Travel*
+**Travel**
 I like to explore new cities and countries, and I like trekking
 
-*Genealogy*
+**Genealogy**
 
-*Sports*
+**Sports**
 
-*Music*
+**Music**
 
+Music always cheers me up! 
+And I was a frustrated person for not knowing how to play any musical instrument until the Covid pandemic left me confined at home and I started to learn to play the ukulele.
 
 CV last updated: January 04 2021
