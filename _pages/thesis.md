@@ -6,11 +6,4 @@ title: My thesis
 
 Comprehension of shear-induced areareduction of soft elastic contacts
 
-<ul>
-  {% for post in site.thesis %}
-    <li>
-      <a href=".{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
+[Chapter 1](marianads.github.io/_thesis/Thesis_Mariana (8) (pdf.io) (2).pdf)
