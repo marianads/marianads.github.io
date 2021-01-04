@@ -89,7 +89,6 @@ Programming Languages
 
 :   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
 
-
 Extra Section, Call it Whatever You Want
 ----------------------------------------
 
@@ -102,3 +101,17 @@ Extra Section, Call it Whatever You Want
 * Random tidbit
 
 * Other sort of impressive-sounding thing you did
+
+Activities and interests
+----------------------------------------
+*Travel*
+I like to explore new cities and countries, and I like trekking
+
+*Genealogy*
+
+*Sports*
+
+*Music*
+
+
+CV last updated: January 04 2021
