@@ -11,5 +11,5 @@ title: My thesis
 * [Chapter 3]()
 * [Chapter 4]()
 * [Chapter 5]()
-* [Chapter 6](./_thesis/Chapter6.pdf)
+* [Chapter 6](_thesis/Chapter6.pdf)
 * [Chapter 7]()
