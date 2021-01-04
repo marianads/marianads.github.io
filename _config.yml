@@ -1,14 +1,13 @@
-title: My blog
-description: My very nice blog
-author: "Jorge Sanz"
+altitle: My page
+description: My personal page
+author: "Mariana de Souza"
 
 
 theme: minima
 
 # Minima social links
-twitter_username: xurxosanz
-github_username: jsanz
-linkedin_username: jsanz
+twitter_username: desouzaamariana
+linkedin_username: souzaamariana
 rss: rss
 
 # Minima: show excerpts in the frontpage
