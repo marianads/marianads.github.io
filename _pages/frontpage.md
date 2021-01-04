@@ -7,6 +7,9 @@ list_title: My blog posts
 
 Hello! I am a Research Engineer and a Ph.D. Candidate at École Centrale de Lyon in Experimental Contact Mechanics with a background in Material Science.
 
+<img src="https://pbs.twimg.com/media/EmrGT27UYAADvrW?format=jpg&name=large" width="400px">
+
+
 Have a great day!
 
 [gh-site]: https://pages.github.com/
