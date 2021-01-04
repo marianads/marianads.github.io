@@ -8,23 +8,23 @@ Mariana de Souza
 ============
 
 -------------------     ----------------------------
-1 MyAddress                  souzaamariana@gmail.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+31 Rue Abbe Boisard          souzaamariana@gmail.com
+Lyon 69003                         
+France                           
 -------------------     ----------------------------
 
 Education
 ---------
+phd mechanical engineering
+2017-2021 (expected)
+:   **PhD, Mechanical Engineering **; École Centrale de Lyob (Écully, France)
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+     Thesis title: Comprehension of shear-induced areareduction of 
+     soft elastic contacts*
 
 2009-2015
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+:   **BSc, Materials Science and Engineering**; Federal University of
+    Santa Catarina (Florianópolis, Brazil)
 
     *Minor: Awesomeology*
 
@@ -89,9 +89,9 @@ Extra Section, Call it Whatever You Want
 
 * Human Languages:
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+     * Portuguese (native speaker)
+     * English ( speaker)
+     * French ( speaker)
 
 * Random tidbit
 
