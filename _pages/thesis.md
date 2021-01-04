@@ -7,9 +7,10 @@ title: My thesis
 Comprehension of shear-induced areareduction of soft elastic contacts
 
 <ul>
-  {% for chapter in site.thesis %}
+  {% for post in site.posts %}
     <li>
       <a href=".{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
+
