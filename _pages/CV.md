@@ -3,8 +3,9 @@ permalink: /CV
 layout: page
 title: CV
 ---
-<img src="./assets/imgs/screenshot.png" width="400px">
+<img src="./assets/imgs/IMG_1096.jpg" width="400px">
 Mariana de Souza 
+
 ============
 
 ----------------------------
