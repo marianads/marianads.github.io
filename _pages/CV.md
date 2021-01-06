@@ -38,17 +38,17 @@ Experience
 ----------
 
 **Research Assistant**;
-[Inamori School of Engineering - Alfred University](https://www.alfred.edu/academics/colleges-schools/engineering/index.cfm), (Alfred, United States)
+[Inamori School of Engineering - Alfred University](https://www.alfred.edu/academics/colleges-schools/engineering/index.cfm) (Alfred, United States)
 Aug 2014 – Dec 2014
  
-*Effect of chemical composition on the visual appearance and texture of glazes*
+* Effect of chemical composition on the visual appearance and texture of glazes
 
 **Research Intern**;
-[Ceramic & Composite Materials Research Laboratories - CERMAT](http://cermat.ufsc.br/), (Florianópolis, Brazil)
+[Ceramic & Composite Materials Research Laboratories - CERMAT](http://cermat.ufsc.br/) (Florianópolis, Brazil)
 May 2014 – Aug 2014
  
-*Influence of sintering conditions on the microstructure and properties of alumina-filled
-borosilicate glass*
+* Influence of sintering conditions on the microstructure and properties of alumina-filled
+borosilicate glass
 
 **That Other Job You Had**
 
@@ -129,4 +129,4 @@ Music always cheers me up!
 And I was a frustrated person for not knowing how to play any musical instrument until the Covid pandemic left me confined at home and I challenged myself to learn to play Ukulele
 
 
-*CV last updated: January 04 2021*
+*CV last updated: January 06 2021*
