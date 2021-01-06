@@ -23,7 +23,7 @@ Education
 
 2017-2021 (expected)
 :   **PhD, Mechanical Engineering**; 
-École Centrale de Lyon (Écully, France)
+[École Centrale de Lyon](https://www.ec-lyon.fr/en) (Écully, France)
 
      *Thesis title: Comprehension of shear-induced areareduction of 
      soft elastic contacts*
