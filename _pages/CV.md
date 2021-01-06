@@ -37,7 +37,20 @@ Education
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Research Assistant**
+[Inamori School of Engineering - Alfred University](https://www.alfred.edu/academics/colleges-schools/engineering/index.cfm), (Alfred, United States)
+Aug 2014 – Dec 2014
+ 
+*Effect of chemical composition on the visual appearance and texture of glazes*
+
+**Research Intern**
+[Ceramic & Composite Materials Research Laboratories - CERMAT](http://cermat.ufsc.br/), (Florianópolis, Brazil)
+May 2014 – Aug 2014
+ 
+*Influence of sintering conditions on the microstructure and properties of alumina-filled
+borosilicate glass*
+
+**That Other Job You Had**
 
 Short text containing the type of work done, results obtained,
 lessons learned and other remarks. Can also include lists and
@@ -47,8 +60,6 @@ links:
 
 * Item with [link](http://www.example.com). Links will work both in
   the html and pdf versions.
-
-**That Other Job You Had**
 
 Also with a short description.
 
