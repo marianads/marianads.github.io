@@ -37,13 +37,13 @@ Education
 Experience
 ----------
 
-**Research Assistant**
+**Research Assistant**;
 [Inamori School of Engineering - Alfred University](https://www.alfred.edu/academics/colleges-schools/engineering/index.cfm), (Alfred, United States)
 Aug 2014 – Dec 2014
  
 *Effect of chemical composition on the visual appearance and texture of glazes*
 
-**Research Intern**
+**Research Intern**;
 [Ceramic & Composite Materials Research Laboratories - CERMAT](http://cermat.ufsc.br/), (Florianópolis, Brazil)
 May 2014 – Aug 2014
  
