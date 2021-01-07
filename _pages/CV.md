@@ -25,8 +25,7 @@ Education
 :   **PhD, Mechanical Engineering**; 
 [École Centrale de Lyon](https://www.ec-lyon.fr/en) (Écully, France)
 
-     *Thesis title: Comprehension of shear-induced areareduction of 
-     soft elastic contacts*
+     *Thesis title: Comprehension of shear-induced area reduction of soft elastic contacts*
 
 2009-2015
 :   **BSc, Materials Science and Engineering**;
