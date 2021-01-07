@@ -52,10 +52,7 @@ borosilicate glass
 
  IN PROGRESS!!!!!
 
-
-**That Other Job You Had**
-
-Short text containing the type of work done, results obtained,
+<!-- **That Other Job You Had** Short text containing the type of work done, results obtained,
 lessons learned and other remarks. Can also include lists and
 links:
 
@@ -129,7 +126,10 @@ I like to explore new cities and countries, and I like trekking
 **Music**
 
 Music always cheers me up! 
-And I was a frustrated person for not knowing how to play any musical instrument until the Covid pandemic left me confined at home and I challenged myself to learn to play Ukulele
+And I was a frustrated person for not knowing how to play any musical instrument until the Covid pandemic left me confined at home and I challenged myself to learn to play Ukulele -->
+
+
+
 
 
 *CV last updated: January 06 2021*
