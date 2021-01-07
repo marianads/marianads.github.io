@@ -50,6 +50,9 @@ May 2014 – Aug 2014
 * Influence of sintering conditions on the microstructure and properties of alumina-filled
 borosilicate glass
 
+ IN PROGRESS!!!!!
+
+
 **That Other Job You Had**
 
 Short text containing the type of work done, results obtained,
