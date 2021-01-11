@@ -110,13 +110,15 @@ Extra Section, Call it Whatever You Want
 
 * Random tidbit
 
-* Other sort of impressive-sounding thing you did
+* Other sort of impressive-sounding thing you did -->
 
 Activities and interests
 ----------------------------------------
 **Travel**
 
-I like to explore new cities and countries, and I like trekking
+I like to explore new cities and countries.
+
+<img src="https://chart.apis.google.com/chart?cht=map:fixed=-70,-180,80,180&chs=600x400&chf=bg,s,336699&chco=d0d0d0,cc0000,000000&chd=s:9999999999999999999999999999999999999999999999999999999999&chld=CV|US|AS|UM|GU|MP|PR|VI|BR|PE|TH|KH|BE|CZ|FR|PF|NC|BL|MF|PM|WF|TF|GF|GP|YT|MQ|RE|DE|HU|IE|IT|LU|MC|NL|AW|CW|SX|BQ|PL|PT|ES|CH|GB|AI|BM|IO|KY|FK|GI|MS|SH|TC|GG|IM|JE|PN|GS|VG" width="600" height="400"  alt="Quantos paises já visitei. Faça o seu mapa personalizado de viagens"><br/>Visitei 21 países das Nações Unidas (10.8%) num total de 193.<br/><small>Faça o seu <a target="_blank" title="Criar mapa de viagens" href="https://www.joaoleitao.com/viagens/2008/01/11/criar-mapa-viagens/">mapa de viagens</a>.</small>
 
 **Genealogy**
 
@@ -125,7 +127,7 @@ I like to explore new cities and countries, and I like trekking
 **Music**
 
 Music always cheers me up! 
-And I was a frustrated person for not knowing how to play any musical instrument until the Covid pandemic left me confined at home and I challenged myself to learn to play Ukulele -->
+And I was a frustrated person for not knowing how to play any musical instrument until the Covid pandemic left me confined at home and I challenged myself to learn to play Ukulele
 
 
 
