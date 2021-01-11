@@ -118,7 +118,7 @@ Activities and interests
 
 I like to explore new cities and countries.
 
-<img src="https://chart.apis.google.com/chart?cht=map:fixed=-70,-180,80,180&chs=600x400&chf=bg,s,336699&chco=d0d0d0,cc0000,000000&chd=s:9999999999999999999999999999999999999999999999999999999999&chld=CV|US|AS|UM|GU|MP|PR|VI|BR|PE|TH|KH|BE|CZ|FR|PF|NC|BL|MF|PM|WF|TF|GF|GP|YT|MQ|RE|DE|HU|IE|IT|LU|MC|NL|AW|CW|SX|BQ|PL|PT|ES|CH|GB|AI|BM|IO|KY|FK|GI|MS|SH|TC|GG|IM|JE|PN|GS|VG" width="600" height="400"  alt="Countries have I visited"><br/> 21 countries (10.8%) out of 193.<br/><small>
+<img src="https://chart.apis.google.com/chart?cht=map:fixed=-70,-180,80,180&chs=600x400&chf=bg,s,336699&chco=d0d0d0,cc0000,000000&chd=s:9999999999999999999999999999999999999999999999999999999999&chld=CV|US|AS|UM|GU|MP|PR|VI|BR|PE|TH|KH|BE|CZ|FR|PF|NC|BL|MF|PM|WF|TF|GF|GP|YT|MQ|RE|DE|HU|IE|IT|LU|MC|NL|AW|CW|SX|BQ|PL|PT|ES|CH|GB|AI|BM|IO|KY|FK|GI|MS|SH|TC|GG|IM|JE|PN|GS|VG" width="600" height="400"  alt="Countries I have visited"><br/>I have visited 21 out of 193 countries.<br/><small>
 
 **Genealogy**
 
@@ -128,9 +128,6 @@ I like to explore new cities and countries.
 
 Music always cheers me up! 
 And I was a frustrated person for not knowing how to play any musical instrument until the Covid pandemic left me confined at home and I challenged myself to learn to play Ukulele
-
-
-
 
 
 *CV last updated: January 06 2021*
