@@ -6,7 +6,7 @@ title: My thesis
 
 **Comprehension of shear-induced area reduction of soft elastic contacts**
 
-![](https://marianads.github.io/assets/imgs/me/GraphicalAbstractMyThesis.png)
+<img src="./assets/imgs/me/GraphicalAbstractMyThesis.png)" width="400px">
 
 * [Chapter 1]()
 * [Chapter 2]()
