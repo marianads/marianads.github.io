@@ -14,6 +14,14 @@ title: My thesis
   {% endfor %}
 </ul>
 
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href=".{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 * [Chapter 1]()
 * [Chapter 2]()
 * [Chapter 3]()
