@@ -7,7 +7,7 @@ title: My thesis
 **Comprehension of shear-induced area reduction of soft elastic contacts**
 
 <ul>
-  {% for post in site.posts %}
+  {% for post in site.thesis %}
     <li>
       <a href=".{{ thesis.url }}">{{ thesis.title }}</a>
     </li>
