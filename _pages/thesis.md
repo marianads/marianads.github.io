@@ -6,7 +6,7 @@ title: My thesis
 
 **Comprehension of shear-induced area reduction of soft elastic contacts**
 
-<img src="assets/imgs/GraphicalAbstractMyThesis.png" width:"400px">
+<img src="./assets/imgs/GraphicalAbstractMyThesis.png" width:"400px">
 
 * [Chapter 1]()
 * [Chapter 2]()
