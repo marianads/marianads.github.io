@@ -6,7 +6,10 @@ title: My thesis
 
 **Comprehension of shear-induced area reduction of soft elastic contacts**
 
-<img src="./assets/imgs/GraphicalAbstractMyThesis.png" width:"400px">
+
+Any time you change anything in your repo you do an operation called _pushing a commit_. On every push the website is rebuilt. You can see the details of that process in the `Environment` section that is accessible from the repository frontpage.
+
+![](./assets/imgs/GraphicalAbstractMyThesis.png)
 
 * [Chapter 1]()
 * [Chapter 2]()
