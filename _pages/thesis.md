@@ -1,6 +1,6 @@
 ---
 permalink: /thesis
-layout: page
+layout: post
 title: My thesis
 ---
 
