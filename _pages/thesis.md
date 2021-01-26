@@ -14,6 +14,8 @@ title: My thesis
   {% endfor %}
 </ul>
 
+![](assets/img/me.png)
+
 * [Chapter 1]()
 * [Chapter 2]()
 * [Chapter 3]()
