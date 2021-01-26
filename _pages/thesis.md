@@ -6,15 +6,7 @@ title: My thesis
 
 **Comprehension of shear-induced area reduction of soft elastic contacts**
 
-<ul>
-  {% for post in site.thesis %}
-    <li>
-      <a href=".{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
-![](assets/img/me.png)
+<img src="assets/img/me.png">
 
 * [Chapter 1]()
 * [Chapter 2]()
