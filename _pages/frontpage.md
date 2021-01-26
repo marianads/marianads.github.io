@@ -7,6 +7,8 @@ list_title: My blog posts
 
 Hey there! My name is Mariana de Souza.
 
+![](https://marianads.github.io/assets/imgs/me/jsanz_small4.png)
+
 I am a Research Engineer and a Ph.D. Candidate at École Centrale de Lyon in Experimental Contact Mechanics with a background in Materials Science and Engineering.
 
 [<img src="https://pbs.twimg.com/media/EmrGT27UYAADvrW?format=jpg&name=large" width="400px">](https://twitter.com/bethpenrose/status/1327091120455598080?s=20)
