@@ -4,7 +4,7 @@ layout: post
 title: My thesis
 ---
 
-**Onset of sliding of elastomer interfaces: fundamental insights from model sphere/plane contact experiments**
+# Onset of sliding of elastomer interfaces: fundamental insights from model sphere/plane contact experiments
 
 
 ![](https://marianads.github.io/assets/imgs/GraphicalAbstractMyThesis.png)
