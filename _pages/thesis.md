@@ -4,7 +4,8 @@ layout: post
 title: My thesis
 ---
 
-**Comprehension of shear-induced area reduction of soft elastic contacts**
+**Onset of sliding of elastomer interfaces: fundamental insights from model sphere/plane contact experiments**
+
 
 ![](https://marianads.github.io/assets/imgs/GraphicalAbstractMyThesis.png)
 
