@@ -11,7 +11,7 @@ title: My thesis
 
 * [Chapter 1]()
 * [Chapter 2]()
-* [Chapter 3](https://marianads.github.io/assets/Thesis_Chapter3.pdf)
+* [Chapter 3: Elementary mechanisms of shear-induced contact area reduction](https://marianads.github.io/assets/Thesis_Chapter3.pdf)
 * [Chapter 4]()
 * [Chapter 5]()
 * [Chapter 6]()
