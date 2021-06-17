@@ -9,13 +9,13 @@ title: My thesis
 
 ![](https://marianads.github.io/assets/imgs/GraphicalAbstractMyThesis.png)
 
-* [Chapter 1]()
-* [Chapter 2]()
+* [Chapter 1: Introduction]()
+* [Chapter 2: Experimental methods]()
 * [Chapter 3: Elementary mechanisms of shear-induced contact area reduction](https://marianads.github.io/assets/Thesis_Chapter3.pdf)
-* [Chapter 4]()
-* [Chapter 5]()
-* [Chapter 6]()
-* [Chapter 7]()
+* [Chapter 4: Shear-induced area reduction over a wide range of normal loadings]()
+* [Chapter 4 - Supplementary material]()
+* [Chapter 5: Sliding friction under normal loading variation]()
+* [Chapter 6: Concluding remarks and future work]()
 
 **Videos**
 
