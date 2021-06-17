@@ -16,6 +16,7 @@ title: My thesis
 * * [Chapter 4: Supplementary material]()
 * [Chapter 5: Sliding friction under normal loading variation]()
 * [Chapter 6: Concluding remarks and future work]()
+* [Bibliography]()
 
 **Videos**
 
