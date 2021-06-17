@@ -4,8 +4,7 @@ layout: page
 title: CV
 ---
 
-## Mariana de Souza 
-============
+# Mariana de Souza 
 
 ----------------------------
 31 Rue Abbe Boisard         
@@ -15,17 +14,16 @@ France
 souzaamariana@gmail.com
 
 +55 0621776465
-
 ----------------------------
 
 Education
 ---------
 
-2017-2021 (expected)
+2017-2021
 :   **PhD, Mechanical Engineering**; 
 [École Centrale de Lyon](https://www.ec-lyon.fr/en) (Écully, France)
 
-     *Thesis title: Onset of sliding of elastomer interfaces: fundamental insights from model sphere/plane contact experiments*
+     *Onset of sliding of elastomer interfaces: fundamental insights from model sphere/plane contact experiments*
 
 2009-2015
 :   **BSc, Materials Science and Engineering**;
