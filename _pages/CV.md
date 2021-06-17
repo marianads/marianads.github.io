@@ -5,15 +5,14 @@ title: CV
 ---
 
 # Mariana de Souza 
-
 ----------------------------
+
 31 Rue Abbe Boisard         
 Lyon 69003                         
-France 
-
-souzaamariana@gmail.com
-
+France  
+souzaamariana@gmail.com     
 +55 0621776465
+
 ----------------------------
 
 Education
