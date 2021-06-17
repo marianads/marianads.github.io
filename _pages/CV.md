@@ -4,7 +4,7 @@ layout: page
 title: CV
 ---
 
-Mariana de Souza 
+## Mariana de Souza 
 ============
 
 ----------------------------
@@ -25,7 +25,7 @@ Education
 :   **PhD, Mechanical Engineering**; 
 [École Centrale de Lyon](https://www.ec-lyon.fr/en) (Écully, France)
 
-     *Thesis title: Comprehension of shear-induced area reduction of soft elastic contacts*
+     *Thesis title: Onset of sliding of elastomer interfaces: fundamental insights from model sphere/plane contact experiments*
 
 2009-2015
 :   **BSc, Materials Science and Engineering**;
@@ -127,7 +127,7 @@ I like to explore new cities and countries.
 **Music**
 
 Music always cheers me up! 
-And I was a frustrated person for not knowing how to play any musical instrument until the Covid pandemic left me confined at home and I challenged myself to learn to play Ukulele
+And I was a frustrated person for not knowing how to play any musical instrument until the Covid pandemic left me confined at home and I challenged myself to learn to play Ukulele -->
 
 
-*CV last updated: January 11 2021*
+*CV last updated: June 17 2021*
