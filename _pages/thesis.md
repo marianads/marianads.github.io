@@ -4,7 +4,7 @@ layout: post
 title: My thesis
 ---
 
-<h1>Onset of sliding of elastomer interfaces: fundamental insights from model sphere/plane contact experiments<h1>
+**Onset of sliding of elastomer interfaces: fundamental insights from model sphere/plane contact experiments**
 
 
 ![](https://marianads.github.io/assets/imgs/GraphicalAbstractMyThesis.png)
@@ -13,7 +13,7 @@ title: My thesis
 * [Chapter 2: Experimental methods]()
 * [Chapter 3: Elementary mechanisms of shear-induced contact area reduction](https://marianads.github.io/assets/Thesis_Chapter3.pdf)
 * [Chapter 4: Shear-induced area reduction over a wide range of normal loadings]()
-* * [Chapter 4: Supplementary material]()
+  * [Chapter 4: Supplementary material]()
 * [Chapter 5: Sliding friction under normal loading variation]()
 * [Chapter 6: Concluding remarks and future work]()
 * [Bibliography]()
