@@ -51,70 +51,70 @@ borosilicate glass
  Scientific Participation
 --------------------
 
-# 2021
+#### 2021
 
-**33ème Journées Internationales Francophones de Tribologie (JIFT)**, Jun 10, 2021, online
-“Mise en glissement des contacts élastomère / verre : effet d’un léger mésalignement”
-M. de Souza, J. Scheibert, D. Dalmas
-Oral communication (20 min.)
+**33ème Journées Internationales Francophones de Tribologie (JIFT)**, Jun 10, 2021, online  
+“Mise en glissement des contacts élastomère / verre : effet d’un léger mésalignement”   
+M. de Souza, J. Scheibert, D. Dalmas    
+Oral communication (20 min.)    
 
-# 2019
+#### 2019
 
-**Débat Groupe Surface, Friction, Vibration (SFV)**, November 13, 2019, Ecully, France
-M. de Souza, C. Oliver
-“Frictional sliding of an elastomeric/glass contact: role of a small misalignment”
-Oral communication (40 min.)
+**Débat Groupe Surface, Friction, Vibration (SFV)**, November 13, 2019, Ecully, France  
+M. de Souza, C. Oliver  
+“Frictional sliding of an elastomeric/glass contact: role of a small misalignment”  
+Oral communication (40 min.)    
 
-**46th Leeds Lyon Symposium on Tribology 2019, Tribology in daily life**, September 2-4, 2019, Valpré, Ecully, France
-“Frictional sliding of an elastomeric/glass contact: experimental study of real contact area”
-M. de Souza, D. Dalmas, J. Scheibert
-Oral communication (20 min.)
-Assistant Chairman
+**46th Leeds Lyon Symposium on Tribology 2019, Tribology in daily life**, September 2-4, 2019, Valpré, Ecully, France   
+“Frictional sliding of an elastomeric/glass contact: experimental study of real contact area”   
+M. de Souza, D. Dalmas, J. Scheibert    
+Oral communication (20 min.)    
+Assistant Chairman  
 
-**CECAM Workshop - Modeling tribology: friction and fracture across scales**, January 28-30, 2019, CECAM-HQ-EPFL, Lausanne, Switzerland 
-“Onset of frictional sliding in model patterned interfaces”
-M. de Souza, D. Dalmas, J. Scheibert
-Poster
+**CECAM Workshop - Modeling tribology: friction and fracture across scales**, January 28-30, 2019, CECAM-HQ-EPFL, Lausanne, Switzerland     
+“Onset of frictional sliding in model patterned interfaces” 
+M. de Souza, D. Dalmas, J. Scheibert    
+Poster  
 
-# 2018
+#### 2018
 
-**TriboBR, Third International Brazilian Conference on Tribology**, December 3-5, 2018, Florianópolis, Brazil
-“Onset of frictional sliding in model patterned interfaces”
-M. de Souza, D. Dalmas, J. Scheibert
-Poster
-Best poster presentation award
+**TriboBR, Third International Brazilian Conference on Tribology**, December 3-5, 2018, Florianópolis, Brazil   
+“Onset of frictional sliding in model patterned interfaces” 
+M. de Souza, D. Dalmas, J. Scheibert    
+Poster  
+Best poster presentation award  
 
-**10th European Solid Mechanics Conference**, July 2-6, 2018, Bologna, Italy
-“Onset of frictional sliding in patterned interfaces”
-M. de Souza, D. Dalmas, J. Scheibert
-Oral communication (20 min.)
-Co-Chair the 3rd session of MS Contact Mechanics
+**10th European Solid Mechanics Conference**, July 2-6, 2018, Bologna, Italy    
+“Onset of frictional sliding in patterned interfaces”   
+M. de Souza, D. Dalmas, J. Scheibert    
+Oral communication (20 min.)    
+Co-Chair the 3rd session of MS Contact Mechanics    
 
-**2ème édition des Rencontres du LTDS**, June 6-7, 2018, Château de Goutelas, Marcoux, France
-“Transition vers le glissement d’interfaces modèles”
-M. de Souza, D. Dalmas, J. Scheibert
-Poster
-Best poster presentation award
+**2ème édition des Rencontres du LTDS**, June 6-7, 2018, Château de Goutelas, Marcoux, France      
+“Transition vers le glissement d’interfaces modèles”    
+M. de Souza, D. Dalmas, J. Scheibert    
+Poster  
+Best poster presentation award  
 
-**30ème Journées Internationales Francophones de Tribologie (JIFT)**, May 16-18, 2018, Sophia Antipolis, France
-“Transition vers le glissement d’interfaces modèles”
-M. de Souza, D. Dalmas, J. Scheibert
-Poster
+**30ème Journées Internationales Francophones de Tribologie (JIFT)**, May 16-18, 2018, Sophia Antipolis, France      
+“Transition vers le glissement d’interfaces modèles”    
+M. de Souza, D. Dalmas, J. Scheibert    
+Poster  
 
-**Workshop - Connecting scales: the onset of sliding**, April 27, 2018, Ecully, France
+**Workshop - Connecting scales: the onset of sliding**, April 27, 2018, Ecully, France  
+    
+#### 2017   
 
-# 2017
+**Débat Groupe Surface, Friction, Vibration (SFV)**, December 21, 2017, Ecully, France  
+“Les précurseurs au glissement” 
+Oral communication (40 min.)    
 
-**Débat Groupe Surface, Friction, Vibration (SFV)**, December 21, 2017, Ecully, France
-“Les précurseurs au glissement”
-Oral communication (40 min.)
+**Colloque des Doctorants LTDS**, November 16, 2017, Saint-Etienne, France  
 
-**Colloque des Doctorants LTDS**, November 16, 2017, Saint-Etienne, France
+**Groupement De Recherche Mécanique-Physique (GDR Méphy)**, Nouveaux défis en mécanique de la rupture, November 27-28, 2017, Paris, France  
 
-**Groupement De Recherche Mécanique-Physique (GDR Méphy)**, Nouveaux défis en mécanique de la rupture, November 27-28, 2017, Paris, France
-
-**44th Leeds Lyon Symposium on Tribology 2017, Tribomotion: Where performance and motion meet friction**, September 4-6, 2017, Valpré, Ecully, France
-Assistant Chairman
+**44th Leeds Lyon Symposium on Tribology 2017, Tribomotion: Where performance and motion meet friction**, September 4-6, 2017, Valpré, Ecully, France   
+Assistant Chairman  
 
 
 
