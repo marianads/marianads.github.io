@@ -4,8 +4,6 @@ layout: page
 title: About me
 ---
 
-I am a Materials Engineer from the Federal University of Santa Catarina (2015) with a sandwich period at École Nationale d’Ingénieurs de Saint-Etienne (2013). 
-I have experience in the area of Materials Engineering and Metallurgy with emphasis on ceramic materials, characterization, and mechanical treatments of surfaces. 
-Currently, I am working at the [Laboratoire de Tribologie et Dynamique des Systèmes](http://ltds.ec-lyon.fr/spip/?lang=fr) (LTDS - UMR 5513) at École Centrale de Lyon doing research in Experimental Contact Mechanics of Soft Matter.
+I am a Research Engineer with a PhD in Experimental Contact Mechanics of Soft Materials from École Centrale de Lyon, a BS in Materials Engineering from the Federal University of Santa Catarina, and a sandwich period at École Nationale d'Ingénieurs de Saint-Etienne. My experience is focused on the areas of Mechanical and Materials Engineering, with an emphasis on experimental analysis of polymers and ceramics.
 
 
