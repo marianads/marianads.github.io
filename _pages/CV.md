@@ -11,7 +11,7 @@ title: CV
 Lyon 69003                         
 France  
 souzaamariana@gmail.com     
-+55 0621776465
++33 0621776465
 
 ----------------------------
 
