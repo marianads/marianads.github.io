@@ -14,7 +14,7 @@ Languages: Portuguese, English, and French
 
 ----------------------------
 
-AREAS OF EXPERTISE
+# Areas of expertise 
 ----------------------------------------
 
 • Research and development
@@ -28,7 +28,7 @@ AREAS OF EXPERTISE
 •  Public speaking and presentations
 
 
-EDUCATION
+# Education
 ----------------------------------------
 
 [École Centrale de Lyon](https://www.ec-lyon.fr/en), PhD in Mechanical Engineering - Tribology (2021)\
@@ -36,7 +36,7 @@ EDUCATION
 [École Nationale d’Ingénieurs de Saint-Étienne](https://www.enise.fr/), Exchange student in Mechanical Engineering (2012-2013)
 
     
-PROFESSIONAL EXPERIENCE
+# Professional experience 
 ----------------------------------------
 
 **Technology Engineer**, [GGB Bearing Technology](https://www.ggbearings.com/)\
@@ -50,7 +50,7 @@ LTDS (Laboratoire de Tribologie et Dynamique des Systèmes LTDS - CNRS).\
 decreasing the analysis time.
 
 
-Activities and interests
+# Activities and interests
 ----------------------------------------
 **Travel**: I like to explore new cities and countries.
 
