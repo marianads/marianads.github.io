@@ -59,7 +59,7 @@ decreasing the analysis time.
 **Sports**: I enjoy exploring a variety of sports, embracing the surge of endorphins and the sense of accomplishment that comes with each discipline.
 
 **Music**: music always cheers me up! 
-And I was a frustrated person for not knowing how to play any musical instrument until the Covid pandemic left me confined at home and I challenged myself to learn to play Ukulele
+And I was a frustrated person for not knowing how to play any musical instrument until the Covid pandemic left me confined at home and I challenged myself to learn to play Ukulele.
 
 **Genealogy**: genealogy enthusiast, driven by a deep curiosity to uncover the stories and historical context of my ancestors.
 
