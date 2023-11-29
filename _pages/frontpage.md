@@ -5,11 +5,11 @@ title: Welcome
 list_title: My blog posts
 ---
 
-Hey there! My name is Mariana, nice to see you in here!
+Hey there! My name is Mariana
 
 [<img src="https://pbs.twimg.com/media/EmrGT27UYAADvrW?format=jpg&name=large" width="400px">](https://twitter.com/bethpenrose/status/1327091120455598080?s=20)
 
-Have a nice day!
+ Nice to see you in here!
 
 [gh-site]: https://pages.github.com/
 [minima]: https://github.com/jekyll/minima/tree/2.5-stable
