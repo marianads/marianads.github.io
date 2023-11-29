@@ -52,7 +52,7 @@ decreasing the analysis time.
 
 # Activities and interests
 ----------------------------------------
-**Travel**: I like to explore new cities and countries.
+**Travel**: crazy about travels, I eagerly seek opportunities to challenge my perspectives and enrich my understanding of the world.
 
 <img src="https://chart.apis.google.com/chart?cht=map:fixed=-70,-180,80,180&chs=600x400&chf=bg,s,336699&chco=d0d0d0,cc0000,000000&chd=s:9999999999999999999999999999999999999999999999999999999999&chld=CV|US|AS|UM|GU|MP|PR|VI|BR|PE|TH|KH|BE|CZ|FR|PF|NC|BL|MF|PM|WF|TF|GF|GP|YT|MQ|RE|DE|HU|IE|IT|LU|MC|NL|AW|CW|SX|BQ|PL|PT|ES|CH|GB|AI|BM|IO|KY|FK|GI|MS|SH|TC|GG|IM|JE|PN|GS|VG" width="300" height="200"  alt="Countries I have visited"><br/>I have visited 26 out of 193 countries.<br/><small>
 
