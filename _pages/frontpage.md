@@ -5,9 +5,7 @@ title: Welcome
 list_title: My blog posts
 ---
 
-Hey there! My name is Mariana de Souza.
-
-I am a R&D engineers with a background in Materials Science and Tribology.
+Hey there! My name is Mariana
 
 [<img src="https://pbs.twimg.com/media/EmrGT27UYAADvrW?format=jpg&name=large" width="400px">](https://twitter.com/bethpenrose/status/1327091120455598080?s=20)
 
