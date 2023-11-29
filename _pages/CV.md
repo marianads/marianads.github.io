@@ -56,12 +56,12 @@ decreasing the analysis time.
 
 <img src="https://chart.apis.google.com/chart?cht=map:fixed=-70,-180,80,180&chs=600x400&chf=bg,s,336699&chco=d0d0d0,cc0000,000000&chd=s:9999999999999999999999999999999999999999999999999999999999&chld=CV|US|AS|UM|GU|MP|PR|VI|BR|PE|TH|KH|BE|CZ|FR|PF|NC|BL|MF|PM|WF|TF|GF|GP|YT|MQ|RE|DE|HU|IE|IT|LU|MC|NL|AW|CW|SX|BQ|PL|PT|ES|CH|GB|AI|BM|IO|KY|FK|GI|MS|SH|TC|GG|IM|JE|PN|GS|VG" width="300" height="200"  alt="Countries I have visited"><br/>I have visited 26 out of 193 countries.<br/><small>
 
-**Genealogy**: genealogy enthusiast, driven by a deep curiosity to uncover the stories and historical context of my ancestors.
-
 **Sports**: I enjoy exploring a variety of sports, embracing the surge of endorphins and the sense of accomplishment that comes with each discipline.
 
 **Music**: music always cheers me up! 
 And I was a frustrated person for not knowing how to play any musical instrument until the Covid pandemic left me confined at home and I challenged myself to learn to play Ukulele
+
+**Genealogy**: genealogy enthusiast, driven by a deep curiosity to uncover the stories and historical context of my ancestors.
 
 
 *CV last updated: July 05 2021*
