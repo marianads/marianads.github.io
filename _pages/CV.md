@@ -5,7 +5,7 @@ title: CV
 ---
 
 # MARIANA DE SOUZA 
-----------------------------
+----------------------------------------
 
 51 Route de Pringy, Annecy | +33 0621776465 | souzaamariana@gmail.com\
 Birthdate: 19/09/1991\
@@ -15,7 +15,7 @@ Languages: Portuguese, English, and French
 ----------------------------
 
 AREAS OF EXPERTISE
----------
+----------------------------------------
 
 • Research and development
 •  Project management
@@ -29,7 +29,7 @@ AREAS OF EXPERTISE
 
 
 EDUCATION
----------
+----------------------------------------
 
 [École Centrale de Lyon](https://www.ec-lyon.fr/en), PhD in Mechanical Engineering - Tribology (2021)\
 [Federal University of Santa Catarina](https://en.ufsc.br/), Materials Engineering (2015)\
@@ -37,9 +37,9 @@ EDUCATION
 
     
 PROFESSIONAL EXPERIENCE
-----------
+----------------------------------------
 
-**Technology Engineer**;, [GGB Bearing Technology](https://www.ggbearings.com/)\
+**Technology Engineer**, [GGB Bearing Technology](https://www.ggbearings.com/)\
 Jan 2022 - Present, Annecy, France\
 • Conduct research on tribological solutions compatible with environmental challenges in collaboration with 
 LTDS (Laboratoire de Tribologie et Dynamique des Systèmes LTDS - CNRS).\
@@ -50,92 +50,21 @@ LTDS (Laboratoire de Tribologie et Dynamique des Systèmes LTDS - CNRS).\
 decreasing the analysis time.
 
 
-**Research Assistant**;
-[Inamori School of Engineering - Alfred University](https://www.alfred.edu/academics/colleges-schools/engineering/index.cfm) (Alfred, United States)
-Aug 2014 – Dec 2014
- 
-* Effect of chemical composition on the visual appearance and texture of glazes
+Activities and interests
+----------------------------------------
+**Travel**: I like to explore new cities and countries.
 
-**Research Intern**;
-[Ceramic & Composite Materials Research Laboratories - CERMAT](http://cermat.ufsc.br/) (Florianópolis, Brazil)
-May 2014 – Aug 2014
- 
-* Influence of sintering conditions on the microstructure and properties of alumina-filled
-borosilicate glass
+<img src="https://chart.apis.google.com/chart?cht=map:fixed=-70,-180,80,180&chs=600x400&chf=bg,s,336699&chco=d0d0d0,cc0000,000000&chd=s:9999999999999999999999999999999999999999999999999999999999&chld=CV|US|AS|UM|GU|MP|PR|VI|BR|PE|TH|KH|BE|CZ|FR|PF|NC|BL|MF|PM|WF|TF|GF|GP|YT|MQ|RE|DE|HU|IE|IT|LU|MC|NL|AW|CW|SX|BQ|PL|PT|ES|CH|GB|AI|BM|IO|KY|FK|GI|MS|SH|TC|GG|IM|JE|PN|GS|VG" width="600" height="400"  alt="Countries I have visited"><br/>I have visited 28 out of 193 countries.<br/><small>
 
- IN PROGRESS!!!!!
- 
- Scientific Participation
---------------------
+**Genealogy**: genealogy enthusiast, driven by a deep curiosity to uncover the stories and historical context of my ancestors.
 
-#### 2021
+**Sports**
 
-**33ème Journées Internationales Francophones de Tribologie (JIFT)**, Jun 10, 2021, online  
-“Mise en glissement des contacts élastomère / verre : effet d’un léger mésalignement”   
-M. de Souza, J. Scheibert, D. Dalmas    
-Oral communication (20 min.)    
-
-#### 2019
-
-**Débat Groupe Surface, Friction, Vibration (SFV)**, November 13, 2019, Ecully, France  
-M. de Souza, C. Oliver  
-“Frictional sliding of an elastomeric/glass contact: role of a small misalignment”  
-Oral communication (40 min.)    
-
-**46th Leeds Lyon Symposium on Tribology 2019, Tribology in daily life**, September 2-4, 2019, Valpré, Ecully, France   
-“Frictional sliding of an elastomeric/glass contact: experimental study of real contact area”   
-M. de Souza, D. Dalmas, J. Scheibert    
-Oral communication (20 min.)    
-Assistant Chairman  
-
-**CECAM Workshop - Modeling tribology: friction and fracture across scales**, January 28-30, 2019, CECAM-HQ-EPFL, Lausanne, Switzerland     
-“Onset of frictional sliding in model patterned interfaces” 
-M. de Souza, D. Dalmas, J. Scheibert    
-Poster  
-
-#### 2018
-
-**TriboBR, Third International Brazilian Conference on Tribology**, December 3-5, 2018, Florianópolis, Brazil   
-“Onset of frictional sliding in model patterned interfaces” 
-M. de Souza, D. Dalmas, J. Scheibert    
-Poster  
-Best poster presentation award  
-
-**10th European Solid Mechanics Conference**, July 2-6, 2018, Bologna, Italy    
-“Onset of frictional sliding in patterned interfaces”   
-M. de Souza, D. Dalmas, J. Scheibert    
-Oral communication (20 min.)    
-Co-Chair the 3rd session of MS Contact Mechanics    
-
-**2ème édition des Rencontres du LTDS**, June 6-7, 2018, Château de Goutelas, Marcoux, France      
-“Transition vers le glissement d’interfaces modèles”    
-M. de Souza, D. Dalmas, J. Scheibert    
-Poster  
-Best poster presentation award  
-
-**30ème Journées Internationales Francophones de Tribologie (JIFT)**, May 16-18, 2018, Sophia Antipolis, France      
-“Transition vers le glissement d’interfaces modèles”    
-M. de Souza, D. Dalmas, J. Scheibert    
-Poster  
-
-**Workshop - Connecting scales: the onset of sliding**, April 27, 2018, Ecully, France  
-    
-#### 2017   
-
-**Débat Groupe Surface, Friction, Vibration (SFV)**, December 21, 2017, Ecully, France  
-“Les précurseurs au glissement” 
-Oral communication (40 min.)    
-
-**Colloque des Doctorants LTDS**, November 16, 2017, Saint-Etienne, France  
-
-**Groupement De Recherche Mécanique-Physique (GDR Méphy)**, Nouveaux défis en mécanique de la rupture, November 27-28, 2017, Paris, France  
-
-**44th Leeds Lyon Symposium on Tribology 2017, Tribomotion: Where performance and motion meet friction**, September 4-6, 2017, Valpré, Ecully, France   
-Assistant Chairman  
+**Music**: music always cheers me up! 
+And I was a frustrated person for not knowing how to play any musical instrument until the Covid pandemic left me confined at home and I challenged myself to learn to play Ukulele
 
 
-
-
+*CV last updated: July 05 2021*
 
 
 <!-- **That Other Job You Had** Short text containing the type of work done, results obtained,
@@ -199,22 +128,4 @@ Extra Section, Call it Whatever You Want
 
 * Other sort of impressive-sounding thing you did 
 
-Activities and interests
-----------------------------------------
-**Travel**
 
-I like to explore new cities and countries.
-
-<img src="https://chart.apis.google.com/chart?cht=map:fixed=-70,-180,80,180&chs=600x400&chf=bg,s,336699&chco=d0d0d0,cc0000,000000&chd=s:9999999999999999999999999999999999999999999999999999999999&chld=CV|US|AS|UM|GU|MP|PR|VI|BR|PE|TH|KH|BE|CZ|FR|PF|NC|BL|MF|PM|WF|TF|GF|GP|YT|MQ|RE|DE|HU|IE|IT|LU|MC|NL|AW|CW|SX|BQ|PL|PT|ES|CH|GB|AI|BM|IO|KY|FK|GI|MS|SH|TC|GG|IM|JE|PN|GS|VG" width="600" height="400"  alt="Countries I have visited"><br/>I have visited 23 out of 193 countries.<br/><small>
-
-**Genealogy**
-
-**Sports**
-
-**Music**
-
-Music always cheers me up! 
-And I was a frustrated person for not knowing how to play any musical instrument until the Covid pandemic left me confined at home and I challenged myself to learn to play Ukulele -->
-
-
-*CV last updated: July 05 2021*
