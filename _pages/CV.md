@@ -4,34 +4,51 @@ layout: page
 title: CV
 ---
 
-# Mariana de Souza 
+# MARIANA DE SOUZA 
 ----------------------------
 
-31 Rue Abbe Boisard         
-Lyon 69003                         
-France  
-souzaamariana@gmail.com     
-+33 0621776465
+51 Route de Pringy, Annecy | +33 0621776465 | souzaamariana@gmail.com\
+Birthdate: 19/09/1991\
+Nationality: Brazilian/Italian\
+Languages: Portuguese, English, and French
 
 ----------------------------
 
-Education
+AREAS OF EXPERTISE
 ---------
 
-2017-2021
-:   **PhD, Mechanical Engineering**; 
-[École Centrale de Lyon](https://www.ec-lyon.fr/en) (Écully, France)
+• Research and development
+•  Project management
+•  Information management
+•  Design of experiments (DOE)
+•  Problem solving/decomposition
+•  Team building and leadership
+•  Data analysis
+•  Verbal and written communication
+•  Public speaking and presentations
 
-     *Onset of sliding of elastomer interfaces: fundamental insights from model sphere/plane contact experiments*
 
-2009-2015
-:   **BSc, Materials Science and Engineering**;
-[Federal University of Santa Catarina](https://en.ufsc.br/) (Florianópolis, Brazil)
+EDUCATION
+---------
 
-    *Sandwich period at École Nationale d’Ingénieurs de Saint-Etienne (2012-2013) in Mechanical Engineering*
+[École Centrale de Lyon](https://www.ec-lyon.fr/en), PhD in Mechanical Engineering - Tribology (2021)\
+[Federal University of Santa Catarina](https://en.ufsc.br/), Materials Engineering (2015)\
+[École Nationale d’Ingénieurs de Saint-Étienne](https://www.enise.fr/), Exchange student in Mechanical Engineering (2012-2013)
 
-Experience
+    
+PROFESSIONAL EXPERIENCE
 ----------
+
+**Technology Engineer**;, [GGB Bearing Technology](https://www.ggbearings.com/)\
+Jan 2022 - Present, Annecy, France\
+• Conduct research on tribological solutions compatible with environmental challenges in collaboration with 
+LTDS (Laboratoire de Tribologie et Dynamique des Systèmes LTDS - CNRS).\
+• Implement new technologies and solutions to improve product quality and efficiency.\
+• Collaborate with cross-functional teams to design experiments and develop new products.\
+• Project leader (Jan 2023 - Present).\
+• Implemented a new data analysis method using MATLAB, increasing reliability and reproducibility, and 
+decreasing the analysis time.
+
 
 **Research Assistant**;
 [Inamori School of Engineering - Alfred University](https://www.alfred.edu/academics/colleges-schools/engineering/index.cfm) (Alfred, United States)
